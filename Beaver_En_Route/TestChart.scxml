@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scxml xmlns="http://www.w3.org/2005/07/scxml" version="1.0" binding="early" name="TestChart" qt:editorversion="4.13.2" xmlns:qt="http://www.qt.io/2015/02/scxml-ext" initial="State_3">
+    <qt:editorinfo initialGeometry="207.15;123.88;-20;-20;40;40"/>
+    <state id="State_3">
+        <qt:editorinfo scenegeometry="466.09;117.71;314.50;67.71;211.59;112.34" geometry="466.09;117.71;-151.59;-50;211.59;112.34"/>
+        <transition type="external" event="Transition_5" target="Final_2"/>
+    </state>
+    <final id="Final_2">
+        <qt:editorinfo scenegeometry="669.17;123.88;649.17;103.88;40;40" geometry="669.17;123.88;-20;-20;40;40"/>
+    </final>
+</scxml>
